@@ -1,0 +1,10 @@
+# Configuration file for example.py
+
+model_path: "/mnt/workspace/model/Qwen3-0.6B"
+
+tensor_parallel_size: 1
+
+enforce_eager: true
+
+temperature: 0.6
+max_tokens: 1024

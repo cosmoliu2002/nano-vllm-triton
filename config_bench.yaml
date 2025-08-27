@@ -1,0 +1,6 @@
+# Configuration file for bench.py
+
+model_path: "/mnt/workspace/model/Qwen2-0.5B"
+
+# Available options: nanovllmtriton, vllm
+engine: "nanovllmtriton"
